@@ -113,11 +113,3 @@ To set up the database, run the SQL script provided in the repository. Ensure yo
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the README according to your specific needs and additional details you might want to include.
