@@ -1,7 +1,3 @@
-Based on the SQL script, the database for the company ElectroConecta includes several tables for managing electronic sales. Below is a draft for the README file in English:
-
----
-
 # ElectroConecta Database
 
 This project contains the SQL Server database schema for ElectroConecta, a company that sells electronic products. The database is designed to handle various aspects of the business, including customers, employees, inventory, and sales transactions.
